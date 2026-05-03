@@ -555,11 +555,10 @@ Learn more about the mission to rescue Buddy and the engineering behind the scen
 
 ## Author
 
-**Steven Jieli Wu**
+**Dmitry Garanin**
 
-- [LinkedIn](https://www.linkedin.com/in/jieliwu/)
-- [Portfolio](https://jwu-studio-portfolio.vercel.app/)
-- GitHub: [@terpjwu1](https://github.com/terpjwu1) and [@fiorastudio](https://github.com/fiorastudio)
+- X: [Dmitry Garanin](https://x.com/DmitrySolana)
+- GitHub: [@DmitrySolana](https://github.com/DmitrySolana)
 
 ## License
 
